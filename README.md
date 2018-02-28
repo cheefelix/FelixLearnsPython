@@ -1,6 +1,6 @@
-FelixLearnsPython
+###FelixLearnsPython
 
-A repo where I keep all of my learning and testing code. 
+**A repo where I keep all of my learning and testing code.**
 
 1. PythonExercise - Solving basic Python challenges. This is made out of individual .py files which are then used to create the notebook under cheefelix/PythonExercise repo. 
 
